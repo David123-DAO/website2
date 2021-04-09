@@ -1,0 +1,36 @@
+.imagen{
+    width: 100%;
+    height: 100%;
+}
+
+.imagen2{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 10em;
+    right: 37em;
+    border-radius: 200px;
+    border: 5px solid white;
+}
+
+.nombre{
+    position: absolute;
+    top: 400px;
+    right: 600px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-shadow: black 5px 5px 4px; 
+    font-family: 'New Tegomin', serif;
+}
+
+.direccion{
+    position: absolute;
+    top: 500px;
+    right: 540px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-shadow: black 5px 5px 4px; 
+    font-family: 'New Tegomin', serif;
+}
